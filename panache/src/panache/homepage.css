@@ -1,0 +1,44 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-color: transparent;
+}
+
+.sidebar {
+    -fx-background-color: #333645;
+}
+
+.btn{
+    -fx-background-color: transparent;
+    -fx-border-width: 0px 0px 0px 3px;
+    -fx-border-color: transparent;
+}
+
+.btn:hover {
+    -fx-background-color: #202332;
+    -fx-border-width: 0px 0px 0px 3px;
+    -fx-border-color: cyan;
+}
+
+.topBar {
+    -fx-background-color: #333645;
+}
+
+.searchBar {
+    -fx-background-color: transparent;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-width: 0px 0px 2px 0px;
+    -fx-border-color: cyan;
+}
+
+.searchbtn{
+    -fx-background-color: transparent;
+    
+}
+
+.searchbtn:hover{
+        -fx-background-color: cyan;
+}
+
